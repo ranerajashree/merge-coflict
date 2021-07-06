@@ -6,11 +6,11 @@ Initial Function()
 }
 
 Initial Security()
-
+<<<<<<< HEAD
 function1
-
+=======
 function2
-
+>>>>>>> feature2
 {
  //Sample Code
 }
