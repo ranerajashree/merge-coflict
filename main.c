@@ -6,6 +6,7 @@ Initial Function()
 }
 
 Initial Security()
+function2
 {
  //Sample Code
 }
